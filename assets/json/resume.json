@@ -139,8 +139,7 @@
       "icon": "fa-solid fa-location-dot"
     }
   ],
-  "publications": [
-  ],
+  "publications": [],
   "skills": [
     {
       "name": "Physics",
@@ -189,7 +188,11 @@
     {
       "name": "tbd",
       "summary": "tbd",
-      "highlights": ["Ruby", "OpenPolicyAgent", "OPA"],
+      "highlights": [
+        "Ruby",
+        "OpenPolicyAgent",
+        "OPA"
+      ],
       "startDate": "2024-01-01",
       "endDate": "present",
       "url": "tbd"
