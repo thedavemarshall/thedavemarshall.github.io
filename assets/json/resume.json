@@ -73,10 +73,7 @@
       "startDate": "2014-08",
       "endDate": "2015-01",
       "summary": "Engaged in core engineering activities within the Product Engineering team.",
-      "highlights": [
-        "KYC",
-        "AML"
-      ]
+      "highlights": ["KYC", "AML"]
     },
     {
       "name": "Groupon",
@@ -85,13 +82,7 @@
       "startDate": "2011-12",
       "endDate": "2014-08",
       "summary": "First hire for Risk engineering team, lead team processes and standards as we grew to six engineers.",
-      "highlights": [
-        "Product Management",
-        "Project Management",
-        "Teambuilding",
-        "Interviewing",
-        "Bar-raiser"
-      ]
+      "highlights": ["Product Management", "Project Management", "Teambuilding", "Interviewing", "Bar-raiser"]
     },
     {
       "name": "ModCloth",
@@ -100,13 +91,7 @@
       "startDate": "2011-10",
       "endDate": "2012-12",
       "summary": "Contributed to various software engineering projects as an Associate Software Engineer.",
-      "highlights": [
-        "Ruby on Rails",
-        "SQL",
-        "Project Management",
-        "Anomoly Detection",
-        "Fraud and Risk"
-      ]
+      "highlights": ["Ruby on Rails", "SQL", "Project Management", "Anomoly Detection", "Fraud and Risk"]
     }
   ],
   "volunteer": [],
@@ -166,10 +151,7 @@
     {
       "name": "LEGO",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "LEGO",
-        "Building Blocks"
-      ]
+      "keywords": ["LEGO", "Building Blocks"]
     }
   ],
   "references": [
@@ -188,11 +170,7 @@
     {
       "name": "tbd",
       "summary": "tbd",
-      "highlights": [
-        "Ruby",
-        "OpenPolicyAgent",
-        "OPA"
-      ],
+      "highlights": ["Ruby", "OpenPolicyAgent", "OPA"],
       "startDate": "2024-01-01",
       "endDate": "present",
       "url": "tbd"
